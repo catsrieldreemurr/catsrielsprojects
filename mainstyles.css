@@ -1,0 +1,89 @@
+body{
+    background-color: #262335;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #171520;
+}
+
+li {
+    display: inline-block;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding:16px 20px;
+}
+
+.active{
+    background-color: #241B2F;
+}
+
+section{
+    border: solid white 2px;
+    text-align: left;
+    padding: 30px 30px;
+    margin: 30px 50px;
+    padding-top: 5px;
+}
+
+#nameField{
+    font-weight: bold;
+}
+
+#siteLink{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#green{
+    color: lime;
+}
+
+.mdown{
+    margin-top: 2.5%;
+}
+
+.boldText{
+    font-weight: bold;
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+footer p{
+    display: block;
+    background-color: #171520;
+    padding: 16px 20px;
+    margin: 0;
+    font-weight: bold;
+}
+
+#projects a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#projects div{
+    border: solid white 2px;
+    text-align: left;
+    padding: 30px 30px;
+    margin: 30px 50px;
+    padding-top: 5px;
+}
