@@ -47,5 +47,12 @@ const proj = [ //mm/dd/yyyy
         desc: "Ever wondered how good friends the different Phighting characters are? Well, wonder no longer!",
         link: "https://catsrieldreemurr.github.io/phightingfriendshipmeter/main/",
         date: "10/07/2024"
+    },
+    { //8
+        projName: "The Everything Generator",
+        account: "catsrieldreemurr",
+        desc: "A collection of poorly coded randomized generators inspired by the random-generators that has existed for years.",
+        link: "https://catsrieldreemurr.github.io/theeverythinggenerator/menu/",
+        date: "10/12/2024"
     }
 ];
