@@ -54,5 +54,12 @@ const proj = [ //mm/dd/yyyy
         desc: "A collection of poorly coded randomized generators inspired by the random-generators that has existed for years.",
         link: "https://catsrieldreemurr.github.io/theeverythinggenerator/menu/",
         date: "10/12/2024"
+    },
+    { //9
+        projName: "Tic Tac Toe!",
+        account: "catsrieldreemurr",
+        desc: "A Remake of Tic Tac Toe, also known as Noughts and Crosses in British English. Now with 100% more spaghetti code.",
+        link: "https://catsrieldreemurr.github.io/tictactoe/main/",
+        date: "10/19/2024"
     }
 ];
