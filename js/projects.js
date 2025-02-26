@@ -61,5 +61,12 @@ const proj = [ //mm/dd/yyyy
         desc: "A Remake of Tic Tac Toe, also known as Noughts and Crosses in British English. Now with 100% more spaghetti code.",
         link: "https://catsrieldreemurr.github.io/tictactoe/main/",
         date: "10/19/2024"
+    },
+        { //10
+        projName: "Catsriel's Password Generator",
+        account: "catsrieldreemurr",
+        desc: "A remake of my older project 'Bad Password Generator'.",
+        link: "https://catsrieldreemurr.github.io/CatsrielsPasswordGenerator/",
+        date: "02/26/2025"
     }
 ];
